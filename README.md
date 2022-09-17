@@ -1,4 +1,4 @@
-# Notice
+# Notice!
 Just a clone From Mimi8298's project. **BUT** here are the files and tutorials you can use, complete, to run your own server and a patched apk. [Check Here.](https://github.com/prq233/ClashofClansServer/releases/tag/SERVERandAPK)
 ## Supercell.Magic - Project
 ***Supercell.Magic*** is a Clash of Clans Server.
